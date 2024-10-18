@@ -1,21 +1,21 @@
 # bookbook
 
+**bookbook** est un projet Flutter démontrant le design d'une page de profil inspirée par Facebook. Ce projet met l'accent sur l'interface utilisateur et la présentation visuelle plutôt que sur des fonctionnalités opérationnelles.
+
 ## Description
 
-**bookbook** est une application Flutter qui permet aux utilisateurs de gérer et d'explorer leurs livres préférés. Avec une interface utilisateur intuitive et des fonctionnalités élégantes, cette application vise à améliorer l'expérience de lecture et à faciliter la découverte de nouveaux livres.
+Ce projet présente une page de profil qui inclut des sections pour les amis, les publications, et d'autres éléments typiques des réseaux sociaux. L'objectif principal est de fournir un design moderne et attrayant qui peut servir de base à une application sociale.
 
 ## Fonctionnalités
 
-- **Interface utilisateur moderne** : Profitez d'une interface soignée et réactive pour une expérience utilisateur agréable.
-- **Gestion des livres** : Ajoutez, modifiez et supprimez des livres de votre bibliothèque personnelle.
-- **Système de recherche** : Recherchez facilement des livres par titre, auteur ou genre.
-- **Partage d'expériences** : Publiez des critiques et des notes pour aider d'autres utilisateurs à découvrir vos livres préférés.
-
+- **Design moderne** : Une mise en page soignée qui imite les éléments d'un profil de réseau social.
+- **Section d'amis** : Affichage d'amis avec leurs photos de profil.
+- **Publications** : Présentation de posts avec des titres, des images et des commentaires.
+- **Responsive** : Conçu pour s'adapter à différentes tailles d'écran.
 ## Technologies utilisées
 
 - **Flutter** : Cadre de développement pour la création d'applications multiplateformes.
 - **Dart** : Langage de programmation utilisé pour écrire le code de l'application.
-- **Firebase** : Service de backend pour la gestion de l'authentification et des données (si applicable).
 
 ## Prérequis
 

@@ -8,7 +8,7 @@ class ProfilePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Faceplook'),
+        title: const Text('bookbook'),
         backgroundColor: Colors.blueAccent,
       ),
       body: ListView(

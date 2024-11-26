@@ -29,7 +29,7 @@ Avant de commencer, assurez-vous d'avoir installé :
 1. Clonez le dépôt :
 
    ```bash
-   git clone https://github.com/votre_nom_utilisateur/bookbook.git
+   git clone https://github.com/nbena69/bookbook.git
 
 2. Naviguez dans le répertoire du projet :
 
@@ -45,6 +45,20 @@ Avant de commencer, assurez-vous d'avoir installé :
 
    ```bash
     flutter run
+
+## Build
+
+Pour construire l'application pour Android ou iOS :
+- **Android :**
+  ```bash
+   flutter build apk
+- **IOS** (nécessite un environnement macOS) :
+  ```bash
+   flutter build ios
+
+## Outils Utilisés
+- **IDE :** Développement réalisé avec [IntelliJ IDEA](https://www.jetbrains.com/idea/).
+- **Émulateur :** Visualisation sur l'émulateur Android fourni par [Android Studio](https://developer.android.com/studio?hl=fr).
 
 ## Contribuer
 

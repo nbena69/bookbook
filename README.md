@@ -1,84 +1,85 @@
 # bookbook
 
-**bookbook** est un projet Flutter démontrant le design d'une page de profil inspirée par Facebook. Ce projet met l'accent sur l'interface utilisateur et la présentation visuelle plutôt que sur des fonctionnalités opérationnelles.
+**bookbook** is a Flutter project demonstrating the design of a Facebook-inspired profile page. This project focuses on user interface and visual presentation rather than operational features.
 
 ## Description
 
-Ce projet présente une page de profil qui inclut des sections pour les amis, les publications, et d'autres éléments typiques des réseaux sociaux. L'objectif principal est de fournir un design moderne et attrayant qui peut servir de base à une application sociale.
+This project features a profile page that includes sections for friends, posts, and other typical social media elements. The main goal is to provide a modern and attractive design that can serve as a basis for a social application.
 
-## Fonctionnalités
+## Features
 
-- **Design moderne** : Une mise en page soignée qui imite les éléments d'un profil de réseau social.
-- **Section d'amis** : Affichage d'amis avec leurs photos de profil.
-- **Publications** : Présentation de posts avec des titres, des images et des commentaires.
-- **Responsive** : Conçu pour s'adapter à différentes tailles d'écran.
-## Technologies utilisées
+- **Modern design** : A neat layout that mimics the elements of a social media profile.
+- **Friends section** : Viewing friends with their profile pictures.
+- **Publications** : Presentation of posts with titles, images and comments.
+- **Responsive** : Designed to fit different screen sizes.
 
-- **Flutter** : Cadre de développement pour la création d'applications multiplateformes.
-- **Dart** : Langage de programmation utilisé pour écrire le code de l'application.
+## Technologies used
 
-## Prérequis
+- **Flutter** : Development framework for creating cross-platform applications.
+- **Dart** : Programming language used to write application code.
 
-Avant de commencer, assurez-vous d'avoir installé :
+## Prerequisites
+
+Before you begin, make sure you have installed:
 
 - [Flutter SDK](https://flutter.dev/docs/get-started/install)
-- Un éditeur de code comme [Visual Studio Code](https://code.visualstudio.com/) ou [Android Studio](https://developer.android.com/studio)
+- A code editor like [Visual Studio Code](https://code.visualstudio.com/) or [Android Studio](https://developer.android.com/studio)
 
 ## Installation
 
-1. Clonez le dépôt :
+1. Clone the repository :
 
    ```bash
    git clone https://github.com/nbena69/bookbook.git
 
-2. Naviguez dans le répertoire du projet :
+2. Navigate to the project directory :
 
    ```bash
    cd bookbook
 
-3. Installez les dépendances :
+3. Install dependencies :
 
    ```bash
    flutter pub get
 
-4. Lancez l'application :
+4. Launch the app :
 
    ```bash
     flutter run
 
 ## Build
 
-Pour construire l'application pour Android ou iOS :
+To build the app for Android or iOS :
 - **Android :**
   ```bash
    flutter build apk
-- **IOS** (nécessite un environnement macOS) :
+- **IOS** (requires macOS environment) :
   ```bash
    flutter build ios
 
-## Outils Utilisés
-- **IDE :** Développement réalisé avec [IntelliJ IDEA](https://www.jetbrains.com/idea/).
-- **Émulateur :** Visualisation sur l'émulateur Android fourni par [Android Studio](https://developer.android.com/studio?hl=fr).
+## Tools Used
+- **IDE :** Development carried out with [IntelliJ IDEA](https://www.jetbrains.com/idea/).
+- **Emulator :** Viewing on the Android emulator provided by [Android Studio](https://developer.android.com/studio?hl=fr).
 
-## Contribuer
+## Contribute
 
-Les contributions sont les bienvenues ! Pour contribuer, veuillez suivre ces étapes :
+Contributions are welcome! To contribute, please follow these steps:
 
-1. Forkez le projet.
+1. Fork the project.
 
-2. Créez une nouvelle branche pour votre fonctionnalité ou correction :
-
-   ```bash
-    git checkout -b feature/nouvelle-fonctionnalité
-
-3. Effectuez vos modifications et validez-les :
+2. Create a new branch for your feature or fix:
 
    ```bash
-   git commit -m 'Ajout d\'une nouvelle fonctionnalité'
+    git checkout -b feature/new-feature
+
+3. Make your changes and validate them:
+
+   ```bash
+   git commit -m 'Added a new feature'
    
-4. Poussez la branche :
+4. Push the branch :
 
    ```bash
-   git push origin feature/nouvelle-fonctionnalité
+   git push origin feature/new-feature
 
-5. Ouvrez une Pull Request.
+5. Open a Pull Request.
